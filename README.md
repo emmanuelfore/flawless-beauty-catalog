@@ -28,6 +28,22 @@ All `image_link` / `additional_image_link` values point to `raw.githubuserconten
 The images are 1080 × 1080 JPEGs with a blurred background pad, so WhatsApp/Meta square crops do not cut off the hair length.
 If you rename the repository or branch, regenerate the CSV URLs.
 
+Verified response headers: `HTTP 200`, `content-type: image/jpeg`, no redirect, 130–235 KB per file.
+
+## Meta requirements check
+
+| Requirement (official Meta spec) | This catalog |
+|---|---|
+| `id`, `title`, `description`, `availability`, `condition`, `price`, `link`, `image_link` required | All present |
+| At least one of `brand`, `gtin`, `mpn` | `brand` = Flawless Beauty |
+| `google_product_category` or `fb_product_category` | Google category 181 — Wigs |
+| JPEG or PNG, min 500 × 500 px, max 8 MB | JPEG, 1080 × 1080, ~130–235 KB |
+| Price format `number ISO-code` | `55.00 USD` |
+| `additional_image_link` quoted, comma-separated | Yes |
+
+`link` is **required** by Meta: omitting it can stop items from uploading. It currently points to a product-specific `wa.me` link.
+Meta's wording prefers a product page on your own website domain; if Diagnostics complains about the `wa.me` domain, switch `link` to a real product page.
+
 ## Products
 
 | ID | Title | Colour | Photos |
