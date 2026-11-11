@@ -1,0 +1,308 @@
+{
+  "WIG-012": {
+    "title": "Brown Long Straight Wig with Fringe",
+    "color": "Brown",
+    "price": 10,
+    "desc": "Long brown straight wig with a soft fringe and smooth, natural-looking finish."
+  },
+  "WIG-013": {
+    "title": "Black Long Kinky Straight Wig",
+    "color": "Black",
+    "price": 10,
+    "desc": "Long black kinky-straight wig with a full, textured look."
+  },
+  "WIG-014": {
+    "title": "Black Afro Curly Wig",
+    "color": "Black",
+    "price": 10,
+    "desc": "Voluminous black afro curly wig with tight, defined curls."
+  },
+  "WIG-015": {
+    "title": "Black Curly Wig with Blonde Ends",
+    "color": "Multicolor",
+    "price": 10,
+    "desc": "Black curly wig with contrasting blonde ends for a bold ombre look."
+  },
+  "WIG-016": {
+    "title": "Burgundy Curly Wig",
+    "color": "Burgundy",
+    "price": 10,
+    "desc": "Burgundy curly wig with soft, bouncy curls."
+  },
+  "WIG-017": {
+    "title": "Brown Short Bob Wig with Fringe",
+    "color": "Brown",
+    "price": 10,
+    "desc": "Short brown bob wig with a neat fringe and smooth finish."
+  },
+  "WIG-018": {
+    "title": "Copper Short Bob Wig",
+    "color": "Copper",
+    "price": 10,
+    "desc": "Short copper bob wig with a side-swept fringe."
+  },
+  "WIG-019": {
+    "title": "Dark Brown Curly Wig",
+    "color": "Brown",
+    "price": 10,
+    "desc": "Dark brown curly wig with a full, rounded curl pattern."
+  },
+  "WIG-020": {
+    "title": "Black Pixie Cut Wig",
+    "color": "Black",
+    "price": 10,
+    "desc": "Short black pixie cut wig with a light, easy-to-wear shape."
+  },
+  "WIG-021": {
+    "title": "Copper Curly Wig",
+    "color": "Copper",
+    "price": 10,
+    "desc": "Copper curly wig with tight, defined curls and a warm tone."
+  },
+  "WIG-022": {
+    "title": "Black to Blonde Ombre Bob Wig",
+    "color": "Multicolor",
+    "price": 15,
+    "desc": "Short bob wig with a black root fading into blonde ends."
+  },
+  "WIG-023": {
+    "title": "Black to Copper Ombre Bob Wig",
+    "color": "Multicolor",
+    "price": 15,
+    "desc": "Short bob wig with a black root fading into warm copper ends."
+  },
+  "WIG-024": {
+    "title": "Auburn Long Headband Wig",
+    "color": "Brown",
+    "price": 18,
+    "desc": "Long auburn headband wig with a soft, natural wave."
+  },
+  "WIG-025": {
+    "title": "Black Long Headband Wig",
+    "color": "Black",
+    "price": 18,
+    "desc": "Long black headband wig with a smooth, sleek finish."
+  },
+  "WIG-026": {
+    "title": "Brown Curly Long Wig",
+    "color": "Brown",
+    "price": 18,
+    "desc": "Long brown curly wig with a full, bouncy curl pattern."
+  },
+  "WIG-027": {
+    "title": "Black Curly Long Wig",
+    "color": "Black",
+    "price": 18,
+    "desc": "Long black curly wig with soft, voluminous curls."
+  },
+  "WIG-028": {
+    "title": "Black Root Honey Blonde Wavy Wig",
+    "color": "Blonde",
+    "price": 20,
+    "desc": "Long wavy wig with a black root fading into honey blonde."
+  },
+  "WIG-029": {
+    "title": "Brown Root Honey Blonde Wavy Wig",
+    "color": "Blonde",
+    "price": 20,
+    "desc": "Long honey blonde wavy wig with a soft brown root."
+  },
+  "WIG-030": {
+    "title": "Brown Bob Wig with Fringe",
+    "color": "Brown",
+    "price": 20,
+    "desc": "Short brown bob wig with a blunt fringe and smooth finish."
+  },
+  "WIG-031": {
+    "title": "Wine Red Wavy Wig",
+    "color": "Red",
+    "price": 20,
+    "desc": "Long wine red wavy wig with soft, flowing waves."
+  },
+  "WIG-032": {
+    "title": "Bright Red Wavy Wig with Fringe",
+    "color": "Red",
+    "price": 20,
+    "desc": "Bright red wavy wig with a fringe and glossy finish."
+  },
+  "WIG-033": {
+    "title": "Black Wavy Wig with Fringe",
+    "color": "Black",
+    "price": 20,
+    "desc": "Black wavy wig with a soft fringe and shoulder-length waves."
+  },
+  "WIG-034": {
+    "title": "Pale Blonde Wavy Wig",
+    "color": "Blonde",
+    "price": 20,
+    "desc": "Long pale blonde wavy wig with light, airy waves."
+  },
+  "WIG-035": {
+    "title": "Golden Blonde Long Straight Wig",
+    "color": "Blonde",
+    "price": 20,
+    "desc": "Long golden blonde straight wig with a sleek, glossy finish."
+  },
+  "WIG-036": {
+    "title": "Black Long Straight Wig",
+    "color": "Black",
+    "price": 20,
+    "desc": "Long black straight wig with a sleek middle part."
+  },
+  "WIG-037": {
+    "title": "Dark Purple Wavy Wig",
+    "color": "Purple",
+    "price": 20,
+    "desc": "Dark purple wavy wig with rich colour and soft waves."
+  },
+  "WIG-038": {
+    "title": "Platinum Blonde Wig with Fringe",
+    "color": "Blonde",
+    "price": 20,
+    "desc": "Platinum blonde wig with a soft fringe and light waves."
+  },
+  "WIG-039": {
+    "title": "Black Root Red Long Wig",
+    "color": "Red",
+    "price": 20,
+    "desc": "Long red wig with a black root and sleek, straight finish."
+  },
+  "WIG-040": {
+    "title": "Ginger Copper Long Straight Wig",
+    "color": "Copper",
+    "price": 20,
+    "desc": "Long ginger copper straight wig with a warm, glossy finish."
+  },
+  "WIG-041": {
+    "title": "Light Brown Wavy Wig with Fringe",
+    "color": "Brown",
+    "price": 20,
+    "desc": "Light brown wavy wig with a soft fringe and shoulder-length waves."
+  },
+  "WIG-042": {
+    "title": "Black Root Ash Blonde Wavy Wig",
+    "color": "Blonde",
+    "price": 20,
+    "desc": "Wavy wig with a black root fading into ash blonde."
+  },
+  "WIG-043": {
+    "title": "Burgundy Long Straight Wig",
+    "color": "Burgundy",
+    "price": 20,
+    "desc": "Long burgundy straight wig with a deep, rich tone."
+  },
+  "WIG-044": {
+    "title": "Black Root Burgundy Wavy Wig",
+    "color": "Burgundy",
+    "price": 20,
+    "desc": "Wavy wig with a black root fading into burgundy."
+  },
+  "WIG-045": {
+    "title": "Dark Burgundy Long Wig with Fringe",
+    "color": "Burgundy",
+    "price": 20,
+    "desc": "Long dark burgundy wig with a soft fringe and loose waves."
+  },
+  "WIG-046": {
+    "title": "Black Short Curly Bob with Caramel Highlights",
+    "color": "Multicolor",
+    "price": 20,
+    "desc": "Short black curly bob with caramel highlights and a full curl pattern."
+  },
+  "WIG-047": {
+    "title": "Black Shoulder-Length Wavy Bob",
+    "color": "Black",
+    "price": 20,
+    "desc": "Black shoulder-length bob with soft, face-framing waves."
+  },
+  "WIG-048": {
+    "title": "Honey Copper Short Wavy Bob",
+    "color": "Copper",
+    "price": 20,
+    "desc": "Short honey copper bob with soft waves and a warm tone."
+  },
+  "WIG-049": {
+    "title": "Body Wave Wig Assorted Colours",
+    "color": "Multicolor",
+    "price": 25,
+    "desc": "Body-wave wig available in a range of colours, including burgundy, copper, purple, highlighted brown and blonde."
+  },
+  "WIG-050": {
+    "title": "Platinum Blonde Wavy Wig",
+    "color": "Blonde",
+    "price": 25,
+    "desc": "Long platinum blonde wavy wig with soft, flowing waves."
+  },
+  "WIG-051": {
+    "title": "Black to Green Ombre Bob Wig",
+    "color": "Multicolor",
+    "price": 25,
+    "desc": "Short bob wig with a black root fading into green ends."
+  },
+  "WIG-052": {
+    "title": "Blonde to Blue Ombre Wig",
+    "color": "Multicolor",
+    "price": 25,
+    "desc": "Wavy wig with a blonde top fading into blue-black ends."
+  },
+  "WIG-053": {
+    "title": "Copper Orange Long Wavy Wig",
+    "color": "Orange",
+    "price": 25,
+    "desc": "Long copper orange wavy wig with bright, glossy waves."
+  },
+  "WIG-054": {
+    "title": "Burgundy Curly Long Wig",
+    "color": "Burgundy",
+    "price": 25,
+    "desc": "Long burgundy curly wig with soft, defined curls."
+  },
+  "WIG-055": {
+    "title": "Auburn Brown Long Wavy Wig",
+    "color": "Brown",
+    "price": 25,
+    "desc": "Long auburn brown wavy wig with full, glossy waves."
+  },
+  "WIG-056": {
+    "title": "Black Silver Red Streak Wavy Wig",
+    "color": "Multicolor",
+    "price": 25,
+    "desc": "Wavy wig with black, silver and red streaks for a statement look."
+  },
+  "WIG-057": {
+    "title": "Black Long Wavy Wig",
+    "color": "Black",
+    "price": 25,
+    "desc": "Long black wavy wig with soft, natural-looking waves."
+  },
+  "WIG-058": {
+    "title": "Curly Wig Assorted Colours",
+    "color": "Multicolor",
+    "price": 35,
+    "desc": "Short curly wig available in a range of colours, including blonde, burgundy, copper and black."
+  },
+  "WIG-059": {
+    "title": "Burgundy Short Curly Wig",
+    "color": "Burgundy",
+    "price": 35,
+    "desc": "Short burgundy curly wig with a rounded, voluminous shape."
+  },
+  "WIG-060": {
+    "title": "Ginger Copper Short Curly Wig",
+    "color": "Copper",
+    "price": 35,
+    "desc": "Short ginger copper curly wig with tight, defined curls."
+  },
+  "WIG-061": {
+    "title": "Black Short Straight Bob Wig",
+    "color": "Black",
+    "price": 35,
+    "desc": "Short black straight bob wig with a sleek, simple finish."
+  },
+  "WIG-062": {
+    "title": "Black Root Blonde Ombre Bob Wig",
+    "color": "Multicolor",
+    "price": 35,
+    "desc": "Short bob wig with a black root fading into honey blonde ends."
+  }
+}
